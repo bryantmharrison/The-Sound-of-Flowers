@@ -13,7 +13,8 @@ The cart will contain:
 We then met as a group and established a project timeline with weekly meetings and deadlines for certain parts of the project like models and drawings over the entire semester. I took meeting minutes for each meeting including topic discussions and attendance.
 
 ## Preliminary Design
-First, we separately began hand drawings of our parts. As such, I began drawing the shop vac and its parts.
+First, we separately began hand drawings of our parts. As such, I began drawing the shop vac and its parts:
+
 ![Vacuum hand drawing](https://github.com/user-attachments/assets/166692be-41f6-432e-8948-d666719e582a)
 
 ![Vacuum body hand drawing](https://github.com/user-attachments/assets/40d3ac73-0641-4b14-a52e-acb4af6b549d)
@@ -28,6 +29,29 @@ First, we separately began hand drawings of our parts. As such, I began drawing 
 ![Wheel hand drawing](https://github.com/user-attachments/assets/e31072ae-acc1-4692-8de9-7df9b609b070)
 
 Then, upon the next group meeting, we collectively worked on the assembly drawing. This was primarily constructed by J.B.O.
+
 ![Travel cart hand drawing](https://github.com/user-attachments/assets/f151a6bd-8ac8-4fff-af9a-281a5e6ae1e2)
 
 ## Detail Design
+Now, using the hand drawings, each member began to model the subassemblies in SolidWorks. As such, I modeled the shop vac and its parts:
+
+![Vacuum assembly model](https://github.com/user-attachments/assets/65f389ba-3c3d-4048-b04d-1b7b4f71b8cd)
+
+![Vacuum body model](https://github.com/user-attachments/assets/2ecc9e49-c2d4-4840-8eae-984c4a3bc272)
+![Power switch model](https://github.com/user-attachments/assets/2b7ebfeb-46f8-49f4-84ab-205119eaa5f0)
+![Handle model](https://github.com/user-attachments/assets/33354641-44fe-4c3b-8e21-56918bdb8c1e)
+![Vacuum lid model](https://github.com/user-attachments/assets/802bd948-f3c9-41a0-87c9-e8d8c7cee715)
+![Vacuum arm model](https://github.com/user-attachments/assets/982348e1-1e1f-4fbc-b894-7968b531407d)
+![Connector base model](https://github.com/user-attachments/assets/4f21a6c1-bd86-4edd-a366-38e37f37ad65)
+![Vacuum head model](https://github.com/user-attachments/assets/efc561b3-73ee-4ba7-8e5a-040989a335f4)
+![Wheel connectors model](https://github.com/user-attachments/assets/d73cee79-e891-49a2-8c00-a34aa6eda6b3)
+![Axle model](https://github.com/user-attachments/assets/65a77dfe-a6d1-4d32-b821-d85d2cc6e4a8)
+![Wheel model](https://github.com/user-attachments/assets/9561db6c-c32b-4295-ac91-5b7c9176def3)
+
+This included an exploded model view:
+
+![Exploded model drawing view of vacuum](https://github.com/user-attachments/assets/1e07d73b-d5a8-497c-b57d-516939b34ae5)
+
+Note that there were changes from the hand drawings to the models. This is because details were added not present in the drawings and design changes were necessary for modeling and assembly.
+
+## Manufacturing Working Drawings
