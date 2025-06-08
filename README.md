@@ -4,9 +4,9 @@ Group Functional Design Project for ME1670 (Introduction to Engineering Design i
 The ME1670 class I was in was tasked with the design of some assembly with a focus on functionality. Each person was to sketch, model, draw, and assemble a minimum of 10 parts for some larger project assembly.
 
 ## Project Ideation
-After brainstorming, I and my group of classmates (Nishu Ankere, Jackson Foster, J.B. O’Neal, Yash Parmar) decided on a project streamlining the cleaning process on airplanes and other similar mass transport. We settled on a typical catering cart with modifications that allow automation to ease the work of flight attendents. This product is to be designed and drawn in **SolidWorks**.
+After brainstorming, I and my group of classmates (Nishu Ankere, Jackson Foster, J.B. O’Neal, Yash Parmar) decided on a project streamlining the cleaning process on airplanes and other similar mass transport. We settled on a typical catering cart with modifications that allow automation to ease the work of flight attendents. This product was to be designed and drawn in **SolidWorks**.
 
-The cart will contain:
+The cart was to contain:
 1. An extending trash can designed by Y.P. that extends for ease of reach for flyers
 2. A multi-purpose robotic arm designed by N.A. that can rotate and extend to hand flyers any food items requested and able to hold disinfectant spray for cleaning purposes
 3. A built-in shop vac designed by me to ease with cleaning the plane
@@ -78,6 +78,6 @@ Finally, we combined each model into a large assembly:
 
 In our following group meeting, we started and completed an instruction manual for how to build the travel cart. This is not shown here.
 
-We turned the project into a presentation to be presented to the class and included a video demonstrating the moving parts on the Travel Cart. These are both included in the files of this repository.
+We turned the project into a presentation to be given to the class and included a video demonstrating the moving parts on the Travel Cart. These are both included in the files of this repository.
 
 We believed that we were able to realize our initial idea in an efficient and effective manner. The final product looks very similar to the initial idea with only a few minor tweaks. Although we successfully created the assembly, we realized that the connections between some of the parts of the cart were not extremely well designed. Given some time to iterate our design, this issue would have been easily addressed. By the end, we realized that we did not meet enough times in person to create as successful of an environment as we could have. All things considered, however, this design was a successful one in my - and my groupmates' - opinion. We accomplished the project goal and did so in a creative and interesting manner.
