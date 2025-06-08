@@ -1,6 +1,8 @@
 # Travel Cart
 Group Functional Design Project for ME1670 (Introduction to Engineering Design in SolidWorks) in the Spring of 2023
 
+The ME1670 class I was in was tasked with the design of some assembly with a focus on functionality. Each person was to sketch, model, draw, and assemble a minimum of 10 parts for some larger project assembly.
+
 ## Project Ideation
 After brainstorming, I and my group of classmates (Nishu Ankere, Jackson Foster, J.B. O’Neal, Yash Parmar) decided on a project streamlining the cleaning process on airplanes and other similar mass transport. We settled on a typical catering cart with modifications that allow automation to ease the work of flight attendents. This product is to be designed and drawn in **SolidWorks**.
 
@@ -69,4 +71,13 @@ After producing the models, we began to turn them into digital drawings. As such
 ![Axle drawing](https://github.com/user-attachments/assets/8099e90d-3442-4dc9-bcb6-9221642e5393)
 ![Wheel drawing](https://github.com/user-attachments/assets/2fee678f-1cd8-4223-b48e-c520e81cad46)
 
-## temp
+## Final Remarks
+Finally, we combined each model into a large assembly:
+
+![Travel cart assembly](https://github.com/user-attachments/assets/7ea2db50-0642-4511-867d-2e6348b5d28f)
+
+In our following group meeting, we started and completed an instruction manual for how to build the travel cart. This is not shown here.
+
+We turned the project into a presentation to be presented to the class and included a video demonstrating the moving parts on the Travel Cart. These are both included in the files of this repository.
+
+We believed that we were able to realize our initial idea in an efficient and effective manner. The final product looks very similar to the initial idea with only a few minor tweaks. Although we successfully created the assembly, we realized that the connections between some of the parts of the cart were not extremely well designed. Given some time to iterate our design, this issue would have been easily addressed. By the end, we realized that we did not meet enough times in person to create as successful of an environment as we could have. All things considered, however, this design was a successful one in my - and my groupmates' - opinion. We accomplished the project goal and did so in a creative and interesting manner.
