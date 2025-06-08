@@ -13,7 +13,7 @@ The cart will contain:
 We then met as a group and established a project timeline with weekly meetings and deadlines for certain parts of the project like models and drawings over the entire semester. I took meeting minutes for each meeting including topic discussions and attendance.
 
 ## Preliminary Design
-First, we separately began hand drawings of our parts. As such, I began drawing the shop vac and its parts:
+First, we separately began hand drawings of our parts. As such, I began drawing the shop vac and its parts.
 
 ![Vacuum hand drawing](https://github.com/user-attachments/assets/166692be-41f6-432e-8948-d666719e582a)
 
@@ -33,7 +33,7 @@ Then, upon the next group meeting, we collectively worked on the assembly drawin
 ![Travel cart hand drawing](https://github.com/user-attachments/assets/f151a6bd-8ac8-4fff-af9a-281a5e6ae1e2)
 
 ## Detail Design
-Now, using the hand drawings, each member began to model the subassemblies in SolidWorks. As such, I modeled the shop vac and its parts:
+Now, using the hand drawings, each member began to model the subassemblies in SolidWorks. As such, I modeled the shop vac and its parts.
 
 ![Vacuum assembly model](https://github.com/user-attachments/assets/65f389ba-3c3d-4048-b04d-1b7b4f71b8cd)
 
@@ -55,3 +55,18 @@ This included an exploded model view:
 Note that there were changes from the hand drawings to the models. This is because details were added not present in the drawings and design changes were necessary for modeling and assembly.
 
 ## Manufacturing Working Drawings
+After producing the models, we began to turn them into digital drawings. As such, I drew the shop vac and its parts.
+
+![Vacuum assembly drawing](https://github.com/user-attachments/assets/b37dfbef-fba2-4962-b569-25e06be17d75)
+
+![Vacuum body drawing](https://github.com/user-attachments/assets/34f9f9e5-02e8-448f-9faf-0f81d55874d0)
+![Power switch drawing](https://github.com/user-attachments/assets/26761c4d-57a6-4116-96f0-b72ac82f8fd2)
+![Handle drawing](https://github.com/user-attachments/assets/3db1efbf-16b9-42a4-a1f9-b394b8fd7453)
+![Vacuum lid drawing](https://github.com/user-attachments/assets/48c399d6-b5ad-4d97-b307-2ee030c14c88)
+![Vacuum arm drawing](https://github.com/user-attachments/assets/fe476fb5-72df-4032-8474-174adef27ab7)
+![Connector base drawing](https://github.com/user-attachments/assets/e7e785a1-ff09-4936-972d-f498d101b7bb)
+![Wheel connectors drawing](https://github.com/user-attachments/assets/8eb31e3c-6a9a-4fcd-a614-adea299c1440)
+![Axle drawing](https://github.com/user-attachments/assets/8099e90d-3442-4dc9-bcb6-9221642e5393)
+![Wheel drawing](https://github.com/user-attachments/assets/2fee678f-1cd8-4223-b48e-c520e81cad46)
+
+## temp
