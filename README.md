@@ -1,5 +1,5 @@
 # Travel Cart
-Group Functional Design Project for ME1670 (Introduction to Engineering Design in SolidWorks) in the Spring of 2023
+Group Functional Design Project of ME1670 (Introduction to Engineering Design in SolidWorks) for Spring 2023
 
 The ME1670 class I was in was tasked with the design of some assembly with a focus on functionality. Each person was to sketch, model, draw, and assemble a minimum of 10 parts for some larger project assembly.
 
